@@ -1,34 +1,37 @@
-### Hi there 👋
+# Welcome! 👋
 
-<a href="https://www.malak.dev/">
-  <img align="left" alt="Malak's Personal Website" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/livejournal.svg" />
-</a>
-<a href="https://www.linkedin.com/in/malaktayeh/">
-  <img align="left" alt="Malak on LinkdeIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/malaktayeh">
-  <img align="left" alt="Malak on Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://dribbble.com/malaktayeh">
-  <img align="left" alt="Malak on Dribbble" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />
-</a>
+[![Twitter Badge](https://img.shields.io/badge/-@malaktayeh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/malaktayeh)](https://twitter.com/malaktayeh)
+[![LinkedIn Badge](https://img.shields.io/badge/-@malaktayeh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=linkedIn&logoColor=white&link=https://www.linkedin.com/in/malaktayeh/)](https://www.linkedin.com/in/malaktayeh/)
+[![dribbble Badge](https://img.shields.io/badge/-@malaktayeh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=dribbble&logoColor=white&link=https://dribbble.com/malaktayeh)](https://dribbble.com/malaktayeh)
 
+My name is Malak and I am a Full-Stack Developer and UX Designer from NYC.
 
-<br />
-<br />
+I am passionate about creating stellar user experiences and specialize in generating mobile-first, responsive, and user-friendly web applications.
 
+👩‍💻 What am I working on?
 
-<!--
-**malaktayeh/malaktayeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Completing Google's UX Design course
+- Various smaller React projects
+- Improving my knowledge about algorithms and data structures
+- Want to start using TypeScript
+- About to launch a blockchain technology startup
 
-Here are some ideas to get you started:
+🔧 Tech Skills & Tools Preference
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front-End (primary tech stack, proficient)
+  - HTML5, CSS, JavaScript (ES6)
+  - Flexbox, CSS Grid, Bootstrap
+  - React + Redux
+- Back-End (secondary tech stack, novice proficiency)
+  - Python
+  - REST APIs in Flask
+  - SQL, SQLAlchemy
+  - Docker
+- Other
+  - Git + Github
+  - VSCode ♡
+
+📊 WakaTime Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
