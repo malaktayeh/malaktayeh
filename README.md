@@ -8,11 +8,10 @@ My name is Malak and I am a Full-Stack Developer and UX Designer from NYC.
 I am passionate about creating stellar user experiences and specialize in generating mobile-first, responsive, and user-friendly web applications.
 
 ## 👩‍💻 What am I working on?
-- Completing Google's UX Design course
 - Various smaller React projects
 - Improving my knowledge about algorithms and data structures
 - Want to start using TypeScript
-- About to launch a blockchain technology startup
+- Microsoft Azure certifications
 
 ## 🔧 Tech Skills & Tools Preference
 1. Front-End (primary tech stack, proficient)
