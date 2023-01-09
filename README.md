@@ -16,8 +16,8 @@ I am passionate about creating stellar user experiences and specialize in genera
 ## 🔧 Tech Skills & Tools Preference
 1. Front-End (primary tech stack, proficient)
     - HTML5, CSS, JavaScript (ES6)
-    - Flexbox, CSS Grid, Bootstrap
-    - React + Redux ToolKit
+    - Flexbox, CSS Grid, Bootstrap, Tailwind CSS
+    - React + Redux ToolKit, Next.js
 2. Back-End (secondary tech stack, novice proficiency)
     - Python
     - REST APIs in Flask
